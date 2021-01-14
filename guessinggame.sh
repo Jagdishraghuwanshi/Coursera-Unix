@@ -15,7 +15,7 @@ elif [[ $num -lt $fnumber ]]
 then 
 echo "Your guess is not correct"
 else
-echo "Congratulations !!! You are right "
+echo "Congratulations !!! You are right"
 exit 0
 fi
 guessinggame
